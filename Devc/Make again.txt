@@ -1,0 +1,3 @@
+conversor de seg para minutos e horas
+
+fibonance: usuário escolhendo o termo final.

@@ -1,0 +1,4 @@
+numero de contatos salvos:1
+contato numero:1
+Nome:jose serra
+Data:7/7/1988
